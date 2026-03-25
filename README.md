@@ -2,4 +2,4 @@
 限時：45mins (1615-1700)
 目標：使用HTML CSS以及AI協助工具製作出一個指定人物的個人網站
 
-[點我打開題目]()
+[點我打開題目](https://github.com/itdogs-max/plklsp-task/tree/main/task)
